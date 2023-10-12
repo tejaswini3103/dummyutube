@@ -17,6 +17,7 @@ export default function Flip() {
         <h4 className='nen'><i class="fa fa-shopping-cart"></i> Cart</h4>
         </div>
     </div>
+    <h1>Tester site </h1>
     <hr style={{color:'gray'}}></hr>
     <div className='row'></div>
     </div>
